@@ -479,6 +479,13 @@ footer p {
     font-size: 2.2rem;
     text-transform: uppercase;
     font-weight: bold; }
+  .home.main {
+    display: flex;
+    justify-content: center; }
+    .home.main .home1,
+    .home.main .home2,
+    .home.main .home3 {
+      width: 300px; }
   nav ul li a:link {
     width: 24%; }
   p {

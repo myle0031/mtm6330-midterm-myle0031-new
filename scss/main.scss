@@ -568,6 +568,16 @@ footer p {
     font-weight: bold;
   }
 
+  .home.main {
+    display: flex;
+    justify-content: center;
+
+    .home1,
+    .home2,
+    .home3 {
+      width: 300px;
+    }
+  }
 
   nav ul li a:link {
     width: 24%;
